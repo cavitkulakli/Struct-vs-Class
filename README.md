@@ -1,7 +1,7 @@
 
 #  Struct vs Class
 
-##Struct
+## Struct
 
 - [x] Simpler
 - [x] Faster
@@ -10,7 +10,7 @@
 - [x] No memory leaks
 - [x] Threadsafe
 
-##Classes
+## Classes
 
 - [x] Has inheritance
 - [x] Works with objective-C code
